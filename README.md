@@ -12,7 +12,7 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 &nbsp;&nbsp;
 <a href="https://twitter.com/AmitrajitDas"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/amitrajitdas31/"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4362964%2Ffacebook_fb_logo_social_media_icon&psig=AOvVaw2H6vZeMtapRQdO-_2fPulN&ust=1607874558870000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDnw9LlyO0CFQAAAAAdAAAAABAD"></a>
+<a href="https://www.facebook.com/amitrajitdas31/"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4362964%2Ffacebook_fb_logo_social_media_icon&psig=AOvVaw2H6vZeMtapRQdO-_2fPulN&ust=1607874558870000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDnw9LlyO0CFQAAAAAdAAAAABAD.png"></a>
 &nbsp;&nbsp;
 
 </p>
