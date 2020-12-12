@@ -27,7 +27,7 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
-<code><img src="Amitrajit31\img\pl\go.png" height="30"></code>
+<code><img src=".\img\pl\go.png" height="30"></code>
 
 ### Web Development (Full-stack):
 
