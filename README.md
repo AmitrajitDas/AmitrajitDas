@@ -39,14 +39,13 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
-<code><img src="Amitrajit31\img\web\ui\angular.jpg" height="30"></code>
-<code><img src="Amitrajit31\img\web\ui\sass.png" height="30"></code>
+<code><img src=".\img\web\ui\angular.jpg" height="30"></code>
+<code><img src=".\img\web\ui\sass.png" height="30"></code>
 
 #### Backend/Server:
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
 
@@ -58,7 +57,6 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 #### Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
 
 ### Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
@@ -67,7 +65,6 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 
 ### Others:
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30"></code>
 
 
 
