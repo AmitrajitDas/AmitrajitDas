@@ -23,7 +23,6 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="30"></code>
-<code><img src="" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
