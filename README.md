@@ -64,9 +64,9 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
 
 ### Others:
+<code><img src=".\img\other\restful api.png" height="30"></code>
 <code><img src=".\img\other\mocha.png" height="30"></code>
 <code><img src=".\img\other\chai.png" height="30"></code>
-<code><img src=".\img\other\restful api.png" height="30"></code>
 
 
 
