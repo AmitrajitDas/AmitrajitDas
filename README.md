@@ -82,7 +82,7 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <!--<div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prasundas99&column=7&hide=PullRequest"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Amitrajit31&column=7&hide=PullRequest"/>
   </a>
 </div>
 -->
@@ -90,6 +90,6 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 
 
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=prasundas99&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=Amitrajit31&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<!--<img src="https://gpvc.arturio.dev/prasundas99" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/prasundas99?style=social"/> -->
+<!--<img src="https://gpvc.arturio.dev/Amitrajit31" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Amitrajit31?style=social"/> -->
