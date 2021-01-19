@@ -38,6 +38,7 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
 <code><img src=".\img\web\ui\angular.jpg" height="30"></code>
 <code><img src=".\img\web\ui\sass.png" height="30"></code>
 
