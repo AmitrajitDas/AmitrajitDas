@@ -76,7 +76,7 @@ Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working
 ## Work Experience 
 
 - 🔭 I’m currently working as SDE Intern @Quordnet Academy
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, Machine Learning and Cloud Computing
 - 👯 I’m looking to collaborate Full Stack Web development Projects
 
 
