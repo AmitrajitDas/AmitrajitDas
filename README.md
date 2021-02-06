@@ -4,7 +4,7 @@
 
 ## BIO
 
-Full Stack MERN Web Developer, Competitive Programmer. Also efficient in working with MEAN stack, server management automation using Bash. Proficient in Website Security, building APIs from scratch, Computer Networking and DevOps with great communicative and management skills.
+MERN Developer, Competitive Programmer. Also efficient in working with MEAN stack, server management automation using Bash. Proficient in Website Security, building APIs from scratch, Computer Networking and DevOps with great communicative and management skills.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amitrajit-das-11ba08190/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
