@@ -76,7 +76,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 ## Work Experience 
 
 - 🔭 I’m currently working as SDE Intern @Aberrantz, Inc
-- 🌱 I’m currently learning Angular and Freelancing
+- 🌱 I’m currently learning Angular and doing Freelancing
 - 👯 I’m looking to collaborate Full Stack Web Development Projects and Internship Opportunities
 
 
