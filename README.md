@@ -84,7 +84,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 <!--- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amitrajit31&column=7&hide=PullRequest"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AmitrajitDas&column=7&hide=PullRequest"/>
   </a>
 </div>
 --->
@@ -93,4 +93,4 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AmitrajitDas&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/Amitrajit31" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Amitrajit31?style=social"/>
+<img src="https://gpvc.arturio.dev/Amitrajit31" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmitrajitDas?style=social"/>
