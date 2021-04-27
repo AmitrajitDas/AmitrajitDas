@@ -76,7 +76,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 ## Work Experience 
 
 - 🔭 I’m currently working as SDE Intern @Aberrantz, Inc
-- 🌱 I’m currently learning Typescript and doing Competitive Coding
+- 🌱 I’m currently learning Typescript and Java
 - 👯 I’m looking to collaborate Full Stack Web Development Projects and Internship Opportunities
 
 
