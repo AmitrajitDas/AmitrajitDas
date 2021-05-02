@@ -92,7 +92,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitrajitDas" alt="AmitraitDas" /></a> </p>
 
-[![Amitrajit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmitrajitDas)](https://github.com/anuraghazra/github-readme-stats)
+[![Amitrajit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmitrajitDas)](https://github.com/AmitrajitDas/github-readme-stats)
 
 
 
