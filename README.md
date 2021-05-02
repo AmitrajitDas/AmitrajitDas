@@ -98,6 +98,6 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 
 ![Amitrajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitrajitDas&theme=radical&show_icons=true&count_private=true)
 
-[![Amitrajit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmitrajitDas)](https://github.com/anuraghazra/github-readme-stats)
+[![Amitrajit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adbrock31)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://gpvc.arturio.dev/Amitrajit31" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmitrajitDas?style=social"/>
