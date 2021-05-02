@@ -89,6 +89,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 </div>
 --->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitrajitDas&label=Profile%20views&color=393e46&style=flat" alt="AmitrajitDas" /> </p>
 
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=AmitrajitDas&count_private=true&theme=merko&show_icons=true&hide=prs)
