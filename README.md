@@ -8,7 +8,7 @@ MERN Developer, Competitive Programmer. Also efficient in working with MEAN stac
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amitrajit-das-11ba08190/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AmitrajitDas"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
+<a href="https://twitter.com/adbrock31"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
 &nbsp;&nbsp;
 
 </p>
