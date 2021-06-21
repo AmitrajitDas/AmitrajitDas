@@ -1,97 +1,33 @@
-<h3> Hi there 👋, I'm Amitrajit Das. </h3>
+<h1 align="center">Hi 👋, I'm Amitrajit Das</h1>
+<h3 align="center">A passionate Full Stack Web Developer and Competitive Coder currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 
-<h4 align="center"> I'm am a Full Stack Web Developer and Competitive Coder  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajitdas&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajitdas" /> </p>
 
-## BIO
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas" alt="amitrajitdas" /></a> </p>
 
-MERN Developer, Competitive Programmer. Also efficient in working with MEAN stack, server management automation using Bash. Proficient in Website Security, building APIs from scratch, Computer Networking and DevOps with great communicative and management skills.
+- 🌱 I’m currently learning **Typescript and C++ STL**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/amitrajit-das-11ba08190/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/adbrock31"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
-&nbsp;&nbsp;
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
+- 💬 Ask me about **React, Node and C++**
+
+- 📫 How to reach me **amitrajitdas31@gmail.com**
+
+- ⚡ Fun fact **I read comic books till I pass out**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/amitrajit31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amitrajit31" height="30" width="40" /></a>
+<a href="https://twitter.com/adbrock31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adbrock31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amitrajit-das-11ba08190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitrajit-das-11ba08190" height="30" width="40" /></a>
 </p>
 
-##  Skilled in 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Languages:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
-<code><img src=".\img\pl\go.png" height="30"></code>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&show_icons=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
 
-### Web Development (Full-stack):
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
 
-#### •Frontend/UI:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx_cXS9Z-WaZKNAEpr-eTnWJb57Rk00U8Ww&usqp=CAU" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
-<code><img src=".\img\web\ui\angular.jpg" height="30"></code>
-<code><img src=".\img\web\ui\sass.png" height="30"></code>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&" alt="amitrajitdas" /></p>
 
-#### Backend/Server:
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src=".\img\web\security\passport.png" height="30"></code>
-
-
-
-
-
-
-#### Database:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
-
-### Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
-<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
-
-### Others:
-<code><img src=".\img\other\restful api.png" height="30"></code>
-<code><img src=".\img\other\mocha.png" height="30"></code>
-<code><img src=".\img\other\chai.png" height="30"></code>
-
-
-
-
-
-## Work Experience 
-
-- 🔭 I’m currently working as SDE Intern @Aberrantz, Inc
-- 🌱 I’m currently learning Typescript and Java
-- 👯 I’m looking to collaborate Full Stack Web Development Projects and Internship Opportunities
-
-
-
-<!--- <div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmitrajitDas&column=7&hide=PullRequest"/>
-  </a>
-</div>
---->
-#### Overall profile stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmitrajitDas&theme=radical" alt="AmitraitDas" /></a> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitrajitDas&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Amitrajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitrajitDas&theme=radical&show_icons=true&count_private=true)
-
-<img src="https://gpvc.arturio.dev/Amitrajit31" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmitrajitDas?style=social"/>
