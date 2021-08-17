@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=dracula" alt="amitrajitdas" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain** and **Focusing on CP** & **Personal side projects**
+- 🌱 I’m currently learning **Blockchain** and **Focusing on DSA/CP** & **Personal side projects**
 
 - 💻 Currently working as a **Web Developer Intern** at **Aberrantz Inc.**
 
