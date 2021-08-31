@@ -35,7 +35,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Full Stack Web Developer | [@QuordnetAcademy] | Nov 2020 - Feb 2021 |
+| Full Stack Web Developer | @QuordnetAcademy | Nov 2020 - Feb 2021 |
 | Frontend React & Redux Developer | [@AberrantzInc](http://snapparc.com) | Feb 2021 - Present |
 |  Full Stack Web Developer | [@DigitalFlow](https://digitalflow.in) | Aug 2021 - Present |
 
