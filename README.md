@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain & Microservices**, **Focusing on DSA** & **Personal side projects**
 
-- 💻 Currently working as a **Web Developer Intern** at **Digital Flow**
+- 💻 Currently working as a **Web Developer Intern** at **Aberrantz Inc.**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
