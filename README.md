@@ -39,9 +39,9 @@
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Full Stack Web Developer | @QuordnetAcademy | Nov 2020 - Feb 2021 |
-| Frontend React & Redux Developer | [@AberrantzInc](http://snapparc.com) | Feb 2021 - Present |
-|  Full Stack Web Developer | [@DigitalFlow](https://digitalflow.in) | Aug 2021 - Oct 2021 |
+| SDE Intern | @QuordnetAcademy | Nov 2020 - Feb 2021 |
+| SDE Intern | [@AberrantzInc](http://snapparc.com) | Feb 2021 - Present |
+| SDE Intern | [@DigitalFlow](https://digitalflow.in) | Aug 2021 - Oct 2021 |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
