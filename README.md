@@ -39,7 +39,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| SDE Intern | @QuordnetAcademy | Nov 2020 - Feb 2021 |
+| SDE Intern | [@QuordnetAcademy](https://www.linkedin.com/company/quordnet-academy/) | Nov 2020 - Feb 2021 |
 | SDE Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Present |
 | SDE Intern | [@DigitalFlow](https://digitalflow.in) | Aug 2021 - Oct 2021 |
 
