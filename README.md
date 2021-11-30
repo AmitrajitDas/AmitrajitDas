@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain & Microservices**, **Focusing on DSA** & **Personal side projects**
 
-- 💻 Currently working as a **Web Developer Intern** at **Aberrantz Inc.**
+- 💻 Currently working as a **Lead Full Stack Intern** at **DoubtConnect**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
@@ -39,9 +39,16 @@
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| SDE Intern | [@QuordnetAcademy](https://www.linkedin.com/company/quordnet-academy/) | Nov 2020 - Feb 2021 |
-| SDE Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Present |
-| SDE Intern | [@DigitalFlow](https://digitalflow.in) | Aug 2021 - Oct 2021 |
+| Full Stack Intern | [@QuordnetAcademy](https://www.linkedin.com/company/quordnet-academy/) | Nov 2020 - Feb 2021 |
+| React Developer Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Present |
+| Full Stack Intern | [@DigitalFlow](https://digitalflow.in/) | Aug 2021 - Oct 2021 |
+| Full Stack Intern | [@DoubtConnect](https://www.doubtconnect.in/) | Nov 2021 - Present |
+
+### Volunteer Experience :
+
+| 💼 Designation |  🏢Organization | ⏰Duration  |
+| :-: | :-: | :-: |
+| Web Team Volunteer | [@URECKON](https://www.linkedin.com/company/ureckon?originalSubdomain=in) | Nov 2021 - Present |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
