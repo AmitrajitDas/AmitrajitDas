@@ -48,7 +48,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Web Team Volunteer | [@URECKON](https://www.linkedin.com/company/ureckon?originalSubdomain=in) | Nov 2021 - Present |
+| Web Dev | [@URECKON](https://www.linkedin.com/company/ureckon?originalSubdomain=in) | Nov 2021 - Present |
 
 
 
