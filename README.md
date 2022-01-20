@@ -52,9 +52,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitrajitDas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmitrajitDas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitrajitDas&theme=dracula&" alt="amitrajitdas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&theme=dracula&" alt="amitrajitdas" /></p>
 
