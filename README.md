@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 💬 Ask me about **MERN Stack, DSA, JS, React, Node, C++ & Bash Scripting**
+- 💬 Ask me about **MERN, DSA, JS, Web3, C++ & Bash Scripting**
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
