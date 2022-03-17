@@ -40,7 +40,7 @@
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
 | Full Stack Intern | [@QuordnetAcademy](https://www.linkedin.com/company/quordnet-academy/) | Nov 2020 - Feb 2021 |
-| React Developer Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Present |
+| React Developer Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Nov 2021 |
 | Full Stack Intern | [@DigitalFlow](https://digitalflow.in/) | Aug 2021 - Oct 2021 |
 | Lead Full Stack Intern | [@DoubtConnect](https://www.doubtconnect.in/) | Nov 2021 - Feb 2022 |
 
