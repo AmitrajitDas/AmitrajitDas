@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=dracula" alt="amitrajitdas" /></a> </p>
 
-- 🌱 I’m currently grinding **LeetCode**, learning Web3 & DevOps
+- 🌱 I’m currently grinding **LeetCode**, learning **Web3** & **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
