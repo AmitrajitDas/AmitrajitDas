@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=dracula" alt="amitrajitdas" /></a> </p>
 
-- 🌱 I’m currently learning Backend Development using **Nestjs**, **TypeORM**, **Prisma**, **PostgreSQL & **GraphQL**
+- 🌱 I’m currently learning Backend Development using **Nestjs**, **TypeORM**, **Prisma**, **PostgreSQL** & **GraphQL**
 
 - 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity**
 
