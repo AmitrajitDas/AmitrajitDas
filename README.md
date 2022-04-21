@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=dracula" alt="amitrajitdas" /></a> </p>
 
-- 🌱 I’m currently grinding **LeetCode**, learning **Web3** & **DevOps**
+- 🌱 I’m currently learning Backend Development using **Nestjs**, **TypeORM**, **Prisma**, **PostgreSQL & **GraphQL**
+
+- 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 💬 Ask me about **MERN, DSA, JS, Web3, C++ & Bash Scripting**
+- 💬 Ask me about **Javascript, Nodejs, Reactjs, Nextjs, DSA, C++ & Java**
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
