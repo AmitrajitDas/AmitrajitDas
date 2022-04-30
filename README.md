@@ -52,15 +52,10 @@
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p> -->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&theme=dracula&" alt="amitrajitdas" /></p>
-
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AmitrajitDas/AmitrajitDas/blob/output/github-contribution-grid-snake.gif)
 
