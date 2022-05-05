@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amitrajit Das</h2>
-<h3 align="center">A passionate Full Stack Web Developer and Competitive Coder currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
+<h3 align="center">CS Undergrad with excellent problem solving skills & ability to perform well in a team, passionate
+about Coding & learning new things, enjoy building softwares to solve real-life problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajitdas&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajitdas" /> </p>
 
