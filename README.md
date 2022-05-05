@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=dracula" alt="amitrajitdas" /></a> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
 - 🌱 I’m currently learning Backend Development using **Nestjs**, **PostgreSQL** & **GraphQL**
 
 - 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity** & **Typescript**
@@ -50,12 +52,20 @@
 | :-: | :-: | :-: |
 | Full Stack Dev & Volunteer | [@URECKON](https://www.linkedin.com/company/ureckon?originalSubdomain=in) | Nov 2021 - Present |
 
+## 📊 <strong> My Github Stats 🚀 </strong>
 
+<p align="left">
+  <a>
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AmitrajitDas&theme=dracula"/>
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&theme=dracula&" alt="amitrajitdas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&theme=dracula&" alt="amitrajitdas" /></p> -->
 
