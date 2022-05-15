@@ -15,7 +15,7 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 💬 Ask me about **Javascript, Nodejs, Reactjs, Nextjs, DSA, C++ & Java**
+- 💬 Ask me about **Javascript, C++, Java, DSA & MERN Stack**
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
