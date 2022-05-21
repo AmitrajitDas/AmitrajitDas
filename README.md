@@ -42,7 +42,7 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| SDE Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Nov 2021 |
+| SDE Intern | [@AberrantzInc](https://www.linkedin.com/company/aberrantzinc/mycompany/) | Feb 2021 - Aug 2021 |
 | SDE Intern | [@DigitalFlow](https://digitalflow.in/) | Aug 2021 - Oct 2021 |
 | SDE Intern | [@DoubtConnect](https://www.doubtconnect.in/) | Nov 2021 - Feb 2022 |
 
