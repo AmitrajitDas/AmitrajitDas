@@ -11,7 +11,7 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 - 🌱 I’m currently learning Backend Development using **Nestjs**, **PostgreSQL** & **GraphQL**
 
-- 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity** & **Typescript**
+- 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
