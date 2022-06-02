@@ -9,9 +9,9 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
-- 🌱 I’m currently learning Backend Development using **Nestjs**, **PostgreSQL** & **GraphQL**
+- 🌱 I’m currently sharpening my **DSA & Problem Solving Skills**
 
-- 🦄 I'm also exploring **Web 3.0** and trying to sharpen my skills on **Solidity**
+- 🦄 I’m currently learning Backend Development using **Nestjs** & **PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
