@@ -39,9 +39,9 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| SDE Intern | Aberrantz Inc | Feb 2021 - Aug 2021 |
-| SDE Intern | DigitalFlow | Aug 2021 - Oct 2021 |
-| SDE Intern | DoubtConnect | Nov 2021 - Feb 2022 |
+| Frontend Intern | Aberrantz Inc | Feb 2021 - Aug 2021 |
+| Full Stack Intern | DigitalFlow | Aug 2021 - Oct 2021 |
+| Full Stack Intern | DoubtConnect | Nov 2021 - Feb 2022 |
 
 ### Volunteer Experience :
 
