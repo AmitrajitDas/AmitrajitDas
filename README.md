@@ -13,8 +13,6 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 - 🦄 I’m currently learning Backend Development using **Nestjs** & **PostgreSQL**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
-
 - 💬 Ask me about **JavaScript, C++, Java, DSA & MERN Stack**
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
