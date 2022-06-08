@@ -45,7 +45,7 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Web Dev & Coding Event Co-Ordinator | URECKON, UEMK | Nov 2021 - Present |
+| Web Dev & Coding Event Co-Ordinator | URECKON, UEMK | Nov 2021 - April 2022 |
 
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
