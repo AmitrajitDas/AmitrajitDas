@@ -3,6 +3,8 @@
 <h3 align="center">CS Undergrad with excellent problem solving skills & ability to perform well in a team, passionate
 about Coding & learning new things, enjoy building softwares to solve real-life problems.</h3>
 
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajitdas&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajitdas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=algolia" alt="amitrajitdas" /></a> </p>
@@ -58,6 +60,17 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 </p>
 
 [![Amitrajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitrajitDas&theme=react-dark)](https://github.com/AmitrajitDas/github-readme-activity-graph)
+
+<div align='center'>
+
+## 💻 My Rig
+<img src = "https://img.shields.io/badge/Laptop-Asus%20TUF%20FX504GE-blueviolet?style=for-the-badge&logo=asus&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Intel-i5%208300h-blue?&style=for-the-badge&logo=intel&logoColor=white" />
+<img src = "https://img.shields.io/badge/Ram-16%20GB%20DDR4%203200%20Mhz-red?style=for-the-badge&logo=corsair&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Nvidia-Geforce%20GTX%201050ti-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  
+</div>
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
 
