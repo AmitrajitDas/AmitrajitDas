@@ -3,8 +3,6 @@
 <h3 align="center">CS Undergrad with excellent problem solving skills & ability to perform well in a team, passionate
 about Coding & learning new things, enjoy building softwares to solve real-life problems.</h3>
 
-<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajitdas&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajitdas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajitdas&theme=algolia" alt="amitrajitdas" /></a> </p>
