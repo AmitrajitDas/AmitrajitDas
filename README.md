@@ -17,7 +17,7 @@ about Coding & learning new things, enjoy building softwares to solve real-life 
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
-- ⚡ Fun fact **I read comic books till I pass out**
+- ⚡ Fun fact **I grind LeetCode for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
