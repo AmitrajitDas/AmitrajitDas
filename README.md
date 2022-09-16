@@ -13,7 +13,7 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 - 🦄 I’m currently learning Backend Development using **Nestjs** & **PostgreSQL**
 
-- 💬 Ask me about **JavaScript, C++, Java, DSA & Web Development**
+- 💬 Ask me about **JavaScript, C++, Java, DSA/CP & Web Development**
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
