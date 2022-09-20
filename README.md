@@ -17,6 +17,8 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 - 📫 How to reach me **amitrajitdas31@gmail.com**
 
+- 📄 Check my Resume https://bit.ly/3xEkQvq
+
 - ⚡ Fun fact **I grind LeetCode for fun**
 
 <h3 align="left">Connect with me:</h3>
