@@ -9,9 +9,9 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250"/>
 
-- 🌱 I’m currently sharpening my **DSA & Problem Solving Skills**
+- 🦄 I’m currently working as a Software Engineer Intern at **Wingsure**
 
-- 🦄 I’m currently learning Backend Development using **Nestjs** & **PostgreSQL**
+- 🌱 I’m currently sharpening my **DSA & Problem Solving Skills**
 
 - 💬 Ask me about **JavaScript, C++, Java, DSA/CP & Web Development**
 
