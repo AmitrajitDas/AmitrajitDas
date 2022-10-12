@@ -15,7 +15,7 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 - 💬 Ask me about **JavaScript, C++, Java, DSA/CP & Web Development**
 
-- 📫 How to reach me **amitrajitdas31@gmail.com**
+- 📫 How to reach me **https://linktr.ee/amitrajit31**
 
 - 📄 Check my Resume https://bit.ly/3xEkQvq
 
