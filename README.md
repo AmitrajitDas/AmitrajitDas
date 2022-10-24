@@ -17,7 +17,7 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 - 📫 How to reach me **https://linktr.ee/amitrajit31**
 
-- 📄 Check my Resume https://bit.ly/3xEkQvq
+- 📄 Check my Resume https://bit.ly/3TxbACa
 
 - ⚡ Fun fact **I grind LeetCode for fun**
 
