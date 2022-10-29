@@ -65,13 +65,3 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AracKnight616?theme=dark&font=Siemreap&ext=contest)
 
-<div align='center'>
-
-## 💻 My Rig
-<img src = "https://img.shields.io/badge/Laptop-Asus%20TUF%20FX504GE-red?style=for-the-badge&logo=asus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Intel-i5%208300h-blue?&style=for-the-badge&logo=intel&logoColor=white" />
-<img src = "https://img.shields.io/badge/Ram-16%20GB%20DDR4%203200%20Mhz-blueviolet?style=for-the-badge&logo=corsair&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Nvidia-Geforce%20GTX%201050ti-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  
-</div>
-
