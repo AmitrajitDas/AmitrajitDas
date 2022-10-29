@@ -61,6 +61,10 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 [![Amitrajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmitrajitDas&theme=react-dark)](https://github.com/AmitrajitDas/github-readme-activity-graph)
 
+## 📊 <strong> My LeetCode Stats 🚀 </strong>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AracKnight616?theme=dark&font=Siemreap&ext=contest)
+
 <div align='center'>
 
 ## 💻 My Rig
@@ -70,12 +74,4 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 <img src = "https://img.shields.io/badge/Nvidia-Geforce%20GTX%201050ti-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
   
 </div>
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="amitrajitdas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajitdas&theme=dracula&show_icons=true&count_private=true&locale=en" alt="amitrajitdas" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajitdas&theme=dracula&" alt="amitrajitdas" /></p> -->
 
