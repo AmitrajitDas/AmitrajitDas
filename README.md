@@ -39,8 +39,8 @@ about Competitive Coding & learning new things, enjoy building softwares to solv
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Frontend Intern | Aberrantz Inc | Feb 2021 - Oct 2021 |
-| Full Stack Intern | DoubtConnect | Nov 2021 - Feb 2022 |
+| Full Stack Dev | Aberrantz Inc | Feb 2021 - Oct 2021 |
+| Full Stack Dev | DoubtConnect | Nov 2021 - Feb 2022 |
 | SDE Intern | Wingsure | June 2022 - Present |
 
 ### Volunteer Experience :
