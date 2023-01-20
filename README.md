@@ -11,7 +11,7 @@ about learning new things, enjoy building softwares to solve real-life problems.
 
 - 🦄 I’m currently working as a Software Engineer at **Wingsure**
 
-- 💬 Ask me about **JavaScript, C++, Java, DSA/CP & Web Development**
+- 💬 Ask me about **JS/TS, DSA, Full Stack Development & System Design**
 
 - 📫 How to reach me **https://linktr.ee/amitrajit31**
 
