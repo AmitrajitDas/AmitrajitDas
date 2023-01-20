@@ -10,7 +10,7 @@ about learning new things, enjoy building softwares to solve real-life problems.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250"/>
 
 - 🦄 I’m currently working as a Software Engineer at **Wingsure**
-- 
+
 - 💬 Ask me about **JavaScript, C++, Java, DSA/CP & Web Development**
 
 - 📫 How to reach me **https://linktr.ee/amitrajit31**
