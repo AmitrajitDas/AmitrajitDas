@@ -15,7 +15,7 @@ about learning new things, enjoy building softwares to solve real-life problems.
 
 - 📫 How to reach me **https://linktr.ee/amitrajit31**
 
-- 📄 Check my Resume https://bit.ly/3TxbACa
+- 📄 Check my [Resume](https://drive.google.com/file/d/1XNSCa9UohoKR6xsZQCTjv-c7QKkH0FOI/view?usp=sharing)
 
 - ⚡ Fun fact **I grind LeetCode for fun**
 
