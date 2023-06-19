@@ -58,7 +58,7 @@ about learning new things, enjoy building softwares to solve real-life problems.
   </a>
 </p>
 
-[![Amitrajit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmitrajitDas&theme=react-dark)](https://github.com/AmitrajitDas/github-readme-activity-graph)
+[![Amitrajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitrajitDas&theme=react-dark)](https://github.com/AmitrajitDas/github-readme-activity-graph)
 
 ## 📊 <strong> My LeetCode Stats 🚀 </strong>
 
