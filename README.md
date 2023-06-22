@@ -52,7 +52,7 @@ about learning new things, enjoy building softwares to solve real-life problems.
 
 | 💼 Designation |  🏢Organization | ⏰Duration  |
 | :-: | :-: | :-: |
-| Web Dev & Coding Event Co-Ordinator | URECKON, UEMK | Nov 2021 - April 2022 |
+| Code Ranch (CP Event) Lead | URECKON, UEMK | Nov 2021 - Feb 2023 |
 
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
