@@ -10,7 +10,7 @@
 
 - 🦄 I’m currently working as a Software Engineer at [Wingsure](https://www.wingsure.co)
 
-- 💬 Ask me about **Backend/Full Stack Development, Distributed Systems, System Design & DSA**
+- 💬 Ask me about **Full Stack Development, Distributed Systems, System Design & DSA**
 
 - 📫 How to reach me **https://linktr.ee/amitrajit31**
 
